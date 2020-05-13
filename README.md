@@ -1,3 +1,3 @@
-##Self made reducer
+## Self made reducer
 
-i made this tiny library to use when a hole Redux is not needed
+Self-made tiny state managing library to use when a whole Redux is redundand
